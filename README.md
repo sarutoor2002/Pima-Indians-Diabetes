@@ -7,5 +7,5 @@ This dataset includes measurements of various health parameters of Pima Indians 
 - **Conclusion**: Diabetes may cause elevated glucose levels in affected individuals.
 
 **Glucose Levels in Pima Indians With and Without Diabetes.** 
-Diabetes status is indicated by either neg (no diabetes) or pos (diabetes).
+Diabetes status is indicated by either neg (no diabetes) or pos (has diabetes).
 ![Glucose Levels in Pima Indians With and Without Diabetes](https://github.com/sarutoor2002/Pima-Indians-Diabetes/blob/main/Chart%201)
