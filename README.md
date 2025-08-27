@@ -6,5 +6,5 @@ This dataset includes measurements of various health parameters of Pima Indians 
 - **Results**: Pima Indians with diabetes had higher glucose values than those without diabetes.
 - **Conclusion**: Diabetes may cause elevated glucose levels in affected individuals.
 
-Glucose Levels in Pima Indians with and without Diabetes.
-!(https://github.com/sarutoor2002/Pima-Indians-Diabetes/blob/main/Chart%201)
+Glucose Levels in Pima Indians With and Without Diabetes.
+![Glucose Levels in Pima Indians With and Without Diabetes](https://github.com/sarutoor2002/Pima-Indians-Diabetes/blob/main/Chart%201)
