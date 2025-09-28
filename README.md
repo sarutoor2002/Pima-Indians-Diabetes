@@ -8,5 +8,5 @@ This dataset includes measurements of various health parameters of Pima Indians 
 
 **Glucose Levels in Pima Indians With and Without Diabetes.** 
 Diabetes status is indicated by either neg (no diabetes) or pos (has diabetes).
-![Glucose Levels in Pima Indians With and Without Diabetes]([https://github.com/sarutoor2002/Pima-Indians-Diabetes/blob/main/Glucose%20Boxplot.png])
+Glucose Levels in Pima Indians With and Without Diabetes ![https://github.com/sarutoor2002/Pima-Indians-Diabetes/blob/main/Glucose%20Boxplot.png]
 
