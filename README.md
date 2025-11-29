@@ -1,5 +1,5 @@
 # Pima Indians Diabetes Analysis
-First independent analysis using R and RStudio. The data set includes measurements of various health parameters of Pima Indians (n=768). 
+##First independent analysis using R and RStudio. The data set includes measurements of various health parameters of Pima Indians (n=768).## 
 - **Goal**: Observe the difference in glucose values between individuals with and without diabetes.
 - **Data**: Data was obtained from the "dataset" package pre-installed in R.
 - **Methods**: Constructed boxplots using plot() function.
