@@ -1,7 +1,8 @@
 # Pima Indians Diabetes Analysis
-#### First independent analysis using R and RStudio. The data set includes measurements of various health parameters of Pima Indians (n=768). 
+#### First independent analysis using R and RStudio. 
+
 - **Goal**: Observe the difference in glucose values between individuals with and without diabetes.
-- **Data**: Data was obtained from the "dataset" package pre-installed in R.
+- **Data**: Data was obtained from the "dataset" package pre-installed in R. The data set includes measurements of various health parameters of Pima Indians (n=768). 
 - **Methods**: Constructed boxplots using plot() function.
 - **Results**: Pima Indians with diabetes had higher glucose values than those without diabetes.
 - **Conclusion**: Diabetes is associated with elevated glucose levels in affected individuals.
